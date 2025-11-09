@@ -11,7 +11,7 @@
 
 ---
 
-## Quickstart
+## Quickstar
 
 ### Installing and running Codex CLI
 
